@@ -74,6 +74,10 @@
     }
     .left{
         width:100%;
+        text-align: center;
+    }
+    .left img{
+        max-width: 250px;
     }
 }
 @media all and (max-width:400px){
